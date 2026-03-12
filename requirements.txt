@@ -1,0 +1,8 @@
+# récupérer les infos système (CPU, RAM, réseau)
+psutil  
+# connecter Python à MySQL
+mysql-connector-python
+# afficher les graphiques
+matplotlib
+# interface graphique avec Tkinter
+tk
