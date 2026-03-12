@@ -29,7 +29,7 @@ mem_data = []
 root = tk.Tk()
 
 # Définition du titre de la fenêtre
-root.title("Dashboard pour le monitorer le reseau")
+root.title("Dashboard pour monitorer le reseau")
 
 
 # Création d'une figure Matplotlib avec une taille spécifique
